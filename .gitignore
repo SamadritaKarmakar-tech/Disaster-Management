@@ -1,0 +1,5 @@
+models/*.pkl
+data/raw/*.csv
+data/processed/*.csv
+data/interim/*.csv
+features/*.pkl
